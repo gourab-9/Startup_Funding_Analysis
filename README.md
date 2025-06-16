@@ -32,7 +32,8 @@ A clean, interactive, and insightful dashboard to explore startup funding trends
 
 | 📉 MoM Analysis | 🧑‍💼 Investor Insights |
 |----------------|------------------------|
-| ![MoM](https://via.placeholder.com/400x250?text=MoM+Graph) | ![Investor](https://via.placeholder.com/400x250?text=Investor+Pie+Chart) |
+| ![MoM](https://github.com/user-attachments/assets/167c1c6e-6ddb-4906-a76c-58ad1c84dbab) | ![Investor](https://via.placeholder.com/400x250?text=Investor+Pie+Chart) |
+
 
 > Replace these with real screenshots from your app UI
 
